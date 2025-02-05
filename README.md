@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-![Daemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andaemin&show_icons=true&locale=kr&custom_title=Cream_Nayeon%20깃허브%20스텟!&ring_color=#F090A2)
+![Daemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andaemin&show_icons=true&theme=algolia&locale=kr&custom_title=Cream_Nayeon%20깃허브%20스텟!&ring_color=#F090A2)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
