@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Daemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andaemin&show_icons=true&theme=transparent&locale=kr&custom_title=CreamNayeon%20스텟)
+![Daemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andaemin&show_icons=true&theme=algolia&locale=kr&custom_title=Cream_Nayeon%20깃허브%20스텟!&)
