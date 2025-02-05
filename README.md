@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Daemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andaemin&show_icons=true&theme=transparent&available_Locales=kr)
+![Daemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andaemin&show_icons=true&theme=transparent&locale=kr&custom_title=CreamNayeon%20스텟)
