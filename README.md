@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 
 ![Daemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andaemin&show_icons=true&theme=algolia&locale=kr&custom_title=Cream_Nayeon%20깃허브%20스텟!&ring_color=#F090A2)
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=5cc07fbbebba1d2bb7c4ba8ea2243426&theme=tokyonnight)](https://gist.github.com/Andaemin/5cc07fbbebba1d2bb7c4ba8ea2243426)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=290bce4cb1982d911c79e356370ae5b5&theme=tokyonnight)](https://gist.github.com/Andaemin/290bce4cb1982d911c79e356370ae5b5)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=1cc72a5956d5a08a732829f425265219&theme=tokyonnight)](https://gist.github.com/Andaemin/1cc72a5956d5a08a732829f425265219)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=88600647a862717b4e4ef4d7aab66176&theme=tokyonnight)](https://gist.github.com/Andaemin/88600647a862717b4e4ef4d7aab66176)
