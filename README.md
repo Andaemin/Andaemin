@@ -36,33 +36,12 @@
   ## Daem_in
 
 </div>
-<!-- 전체 컨테이너 -->
 
-<div align="center">
-  <tr>
-    <th> 🎨 Cream_Nayeon 🎨 </th>
-  </tr>
-  <td>
-    <a href="https://twitter.com/develop_nayeon" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
-    </a>
-  </td>
-  <tr>
-    <td>
-      <a href="https://fb.com/andaemin" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-     <a href="https://instagram.com/daem_in00" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-      </a>
-  </tr>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=andaemin&show_icons=true&theme=material-   palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=40% />
+   </a>
 </div>
 
-
-      
 ## 🛠 Tech Stack
 
 <table align="center">
