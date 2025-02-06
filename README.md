@@ -54,17 +54,13 @@
 <br><br>
 
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andaemin&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=38% align="left" />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=andaemin&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&custom_title=Cream_Nayeon%20깃허브%20스텟!&locale=kr" width=56%/>
-</a>
 
 
 <br><br>
    
 ## 🛠 Tech Stack
+
+<br>
 
 <table align="center">
   <tr>
@@ -104,13 +100,12 @@
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
       <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
       <br>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
       <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" alt="nestjs" width="40" height="40"/> </a>
       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
       <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-      <br>
       <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
       <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
       <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
@@ -118,3 +113,25 @@
   </tr>
 </table>
 </div>
+
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andaemin&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=32% align="center" />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=andaemin&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&custom_title=Cream_Nayeon%20깃허브%20스텟!&locale=kr" width=48% align="center" />
+</div>
+   
+## 🌱 Gist & gitHub
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=5cc07fbbebba1d2bb7c4ba8ea2243426&theme=tokyonnight)](https://gist.github.com/Andaemin/5cc07fbbebba1d2bb7c4ba8ea2243426)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=290bce4cb1982d911c79e356370ae5b5&theme=tokyonnight)](https://gist.github.com/Andaemin/290bce4cb1982d911c79e356370ae5b5)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=1cc72a5956d5a08a732829f425265219&theme=tokyonnight)](https://gist.github.com/Andaemin/1cc72a5956d5a08a732829f425265219)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=88600647a862717b4e4ef4d7aab66176&theme=tokyonnight)](https://gist.github.com/Andaemin/88600647a862717b4e4ef4d7aab66176)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chamchi0216&tag=github&color=dark)](https://velog.io/@chamchi0216/GitHub-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EB%82%98%EB%8F%84-%EC%9C%A0%ED%96%89%EB%94%B0%EB%9D%BC-%ED%95%B4%EB%B3%B4%EA%B8%B0)
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chamchi0216&color=dark&tag=anywriting)](https://velog.io/@chamchi0216/velog-%EC%98%81%EC%97%85%EC%8B%9C%EC%9E%91)
+
+
