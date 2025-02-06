@@ -9,6 +9,24 @@
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=1cc72a5956d5a08a732829f425265219&theme=tokyonnight)](https://gist.github.com/Andaemin/1cc72a5956d5a08a732829f425265219)
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=88600647a862717b4e4ef4d7aab66176&theme=tokyonnight)](https://gist.github.com/Andaemin/88600647a862717b4e4ef4d7aab66176)
 
+   <p>
+      <a href="https://twitter.com/develop_nayeon" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
+      </a>
+      <a href="https://fb.com/andaemin" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
+      </a>
+      <a href="https://instagram.com/daem_in00" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+      </a>
+      <a href="https://velog.io/chamchi0216" target="_blank">
+        <img src="https://velog.velcdn.com/images/hyeongjun/post/5fff0129-f29b-4dfa-b28b-f3af0e11ed4f/image.png" alt="Velog" height="35" width="35"/>
+      </a>
+        <a href="https://hits.seeyoufarm.com">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandaemin&count_bg=%2388B7D9&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=today&edge_flat=false"/>
+    </a>
+    </p>
+  </td>
 -->
 <!-- 전체 컨테이너 -->
 <!-- 전체 컨테이너 -->
@@ -18,30 +36,29 @@
   ## Daem_in
 
 </div>
-<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-    <div align="left" width="100px">
-    <div>
-      <h3>🎨Cream_Nayeon🎨</h3>
-      <a href="https://hits.seeyoufarm.com" align="left"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandaemin&count_bg=%2388B7D9&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=today&edge_flat=false"/>
+<!-- 전체 컨테이너 -->
+
+<div align="center">
+  <tr>
+    <th> 🎨 Cream_Nayeon 🎨 </th>
+  </tr>
+  <td>
+    <a href="https://twitter.com/develop_nayeon" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
+    </a>
+  </td>
+  <tr>
+    <td>
+      <a href="https://fb.com/andaemin" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
       </a>
-    </div>
-    <div align="left">
-      <h3 align="left">💡 Connect with me:</h3>
-      <p align="left">
-        <a href="https://twitter.com/develop_nayeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="develop_nayeon" height="30" width="40" />
-        </a>
-        <a href="https://fb.com/andaemin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andaemin" height="30" width="40" />
-        </a>
-        <a href="https://instagram.com/daem_in00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@daem_in00" height="30" width="40" />
-        </a>
-        <a href="/https://velog.io/chamchi0216" target="blank"><img align="center" src="https://velog.velcdn.com/images/hyeongjun/post/5fff0129-f29b-4dfa-b28b-f3af0e11ed4f/image.png" alt="https://velog.io/chamchi0216" height="35" width="35" />
-        </a>
-      </p>
-    </div>
-  </div>
-  <div align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=Andaemin&show_icons=true&theme=algolia&locale=kr&custom_title=Cream_Nayeon%20깃허브%20스텟!&ring_color=#F090A2&align=right">
-  </div>
+    </td>
+  </tr>
+  <tr>
+     <a href="https://instagram.com/daem_in00" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+      </a>
+  </tr>
 </div>
 
 
