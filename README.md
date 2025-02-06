@@ -33,15 +33,37 @@
 
 <div align="center">
 
-  ## Daem_in
+  ### Daem_in
 
+<a href="https://hits.seeyoufarm.com">
+   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandaemin&count_bg=%2388B7D9&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=today&edge_flat=false" align="left"/>
+</a>
+<a href="https://twitter.com/develop_nayeon" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" align="right"/>
+</a>
+<a href="https://fb.com/andaemin" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" align="right"/>
+</a>
+<a href="https://instagram.com/daem_in00" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" align="right"/>
+</a>
+<a href="https://velog.io/chamchi0216" target="_blank">
+  <img src="https://velog.velcdn.com/images/hyeongjun/post/5fff0129-f29b-4dfa-b28b-f3af0e11ed4f/image.png" alt="Velog" height="35" width="35" align="right"/>
+</a>
 </div>
+<br><br>
 
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=andaemin&show_icons=true&theme=material-   palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=40% />
-   </a>
-</div>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andaemin&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=38% align="left" />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=andaemin&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&custom_title=Cream_Nayeon%20깃허브%20스텟!&locale=kr" width=56%/>
+</a>
 
+
+<br><br>
+   
 ## 🛠 Tech Stack
 
 <table align="center">
@@ -95,7 +117,4 @@
     </td>
   </tr>
 </table>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andaemin&show_icons=true&locale=en&layout=compact" alt="andaemin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andaemin&" alt="andaemin" /></p>-->
+</div>
