@@ -127,13 +127,14 @@
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=290bce4cb1982d911c79e356370ae5b5&theme=tokyonnight)](https://gist.github.com/Andaemin/290bce4cb1982d911c79e356370ae5b5)
 <a href="https://velog.io/@chamchi0216/GitHub-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EB%82%98%EB%8F%84-%EC%9C%A0%ED%96%89%EB%94%B0%EB%9D%BC-%ED%95%B4%EB%B3%B4%EA%B8%B0">
-   <img src="https://velog-readme-stats.vercel.app/api?name=chamchi0216&tag=github&color=dark" width=32%>
+   <img src="https://velog-readme-stats.vercel.app/api?name=chamchi0216&tag=github&color=dark" width=40%>
 </a>
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=1cc72a5956d5a08a732829f425265219&theme=tokyonnight)](https://gist.github.com/Andaemin/1cc72a5956d5a08a732829f425265219)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chamchi0216&tag=github&color=dark)](https://velog.io/@chamchi0216/GitHub-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EB%82%98%EB%8F%84-%EC%9C%A0%ED%96%89%EB%94%B0%EB%9D%BC-%ED%95%B4%EB%B3%B4%EA%B8%B0)
-
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chamchi0216&tag=github&color=dark&)](https://velog.io/@chamchi0216/GitHub-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EB%82%98%EB%8F%84-%EC%9C%A0%ED%96%89%EB%94%B0%EB%9D%BC-%ED%95%B4%EB%B3%B4%EA%B8%B0)
 <a href="https://velog.io/@chamchi0216/GitHub-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EB%82%98%EB%8F%84-%EC%9C%A0%ED%96%89%EB%94%B0%EB%9D%BC-%ED%95%B4%EB%B3%B4%EA%B8%B0">
-   <img src="https://velog-readme-stats.vercel.app/api?name=chamchi0216&tag=github&color=dark" width=32%>
+   <img src="https://velog-readme-stats.vercel.app/api?name=chamchi0216&tag=github&color=dark" width=40%>
 </a>
+
+<!--
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chamchi0216&tag=github&color=dark&)](https://velog.io/@chamchi0216/GitHub-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EB%82%98%EB%8F%84-%EC%9C%A0%ED%96%89%EB%94%B0%EB%9D%BC-%ED%95%B4%EB%B3%B4%EA%B8%B0)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chamchi0216&tag=github&color=dark)](https://velog.io/@chamchi0216/GitHub-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EB%82%98%EB%8F%84-%EC%9C%A0%ED%96%89%EB%94%B0%EB%9D%BC-%ED%95%B4%EB%B3%B4%EA%B8%B0)
+-->
