@@ -9,6 +9,9 @@
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=1cc72a5956d5a08a732829f425265219&theme=tokyonnight)](https://gist.github.com/Andaemin/1cc72a5956d5a08a732829f425265219)
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=88600647a862717b4e4ef4d7aab66176&theme=tokyonnight)](https://gist.github.com/Andaemin/88600647a862717b4e4ef4d7aab66176)
 
+<br>
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
+
    <p>
       <a href="https://twitter.com/develop_nayeon" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
