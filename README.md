@@ -116,7 +116,7 @@
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andaemin&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=32% align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andaemin&layout=compact&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=35% align="center" />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=andaemin&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&custom_title=Cream_Nayeon%20깃허브%20스텟!&locale=kr" width=48% align="center" />
@@ -127,11 +127,11 @@
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=290bce4cb1982d911c79e356370ae5b5&theme=tokyonnight)](https://gist.github.com/Andaemin/290bce4cb1982d911c79e356370ae5b5)
 <a href="https://velog.io/@chamchi0216/GitHub-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EB%82%98%EB%8F%84-%EC%9C%A0%ED%96%89%EB%94%B0%EB%9D%BC-%ED%95%B4%EB%B3%B4%EA%B8%B0">
-   <img src="https://velog-readme-stats.vercel.app/api?name=chamchi0216&tag=github&color=dark" width=40%>
+   <img src="https://velog-readme-stats.vercel.app/api?name=chamchi0216&tag=github&color=dark" width=45%>
 </a>
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=1cc72a5956d5a08a732829f425265219&theme=tokyonnight)](https://gist.github.com/Andaemin/1cc72a5956d5a08a732829f425265219)
 <a href="https://velog.io/@chamchi0216/GitHub-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EB%82%98%EB%8F%84-%EC%9C%A0%ED%96%89%EB%94%B0%EB%9D%BC-%ED%95%B4%EB%B3%B4%EA%B8%B0">
-   <img src="https://velog-readme-stats.vercel.app/api?name=chamchi0216&tag=github&color=dark" width=40%>
+   <img src="https://velog-readme-stats.vercel.app/api?name=chamchi0216&tag=github&color=dark" width=45%>
 </a>
 
 <!--
