@@ -137,10 +137,10 @@ React와 TypeScript를 주로 사용하며, UI/UX에 관심이 많습니다. <br
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andaemin&layout=compact&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=35% align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andaemin&layout=compact&show_icons=true&theme=material-palenight&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=35% align="center" />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=andaemin&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&custom_title=Cream_Nayeon%20깃허브%20스텟!&locale=kr" width=42% align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andaemin&show_icons=true&theme=material-palenight&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&custom_title=Cream_Nayeon%20깃허브%20스텟!&locale=kr" width=42% align="center" />
 </div>
    
 ## 🌱 Gist & gitHub
