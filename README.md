@@ -57,9 +57,25 @@
 <br><br>
 
 <br>
+<div align="center">   
 
+   <p align="left"> " 🚀 Hi there! I'm a developer constantly learning to become a Front-End Developer. <br>
+I mainly work with React and TypeScript, and I have a keen interest in UI/UX. <br>
+📱 I'm planning to deepen my knowledge of React Native to explore mobile app development in addition to web development. <br>
+💡 My goal is to become a developer who provides better user experiences. "
+</p>
 
-<br><br>
+<a href="https://showy-random-b28.notion.site/daemin-s-Profile-b8dd3cb78d334b38b764ccc324c360e9">
+   <img src="https://imghub.insilicogen.com/media/photos/lbj_notion_0.png" width="3%"> "If you want to know more about me, please visit my Notion page." </a><br>
+
+<br>
+
+   <p align="right">🚀 안녕하세요! 저는 프론트엔드 개발자가 되기 위해 꾸준히 공부하고 있는 개발자입니다. <br>
+React와 TypeScript를 주로 사용하며, UI/UX에 관심이 많습니다. <br>
+📱 앞으로 React Native를 더 깊게 공부하여, 웹뿐만 아니라 모바일 앱 개발에도 도전하려고 합니다. <br>
+💡 "더 좋은 사용자 경험을 제공하는 개발자"가 되는 것이 목표입니다. 
+</p>
+</div>
    
 ## 🛠 Tech Stack
 
