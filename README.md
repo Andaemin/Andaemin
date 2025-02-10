@@ -65,9 +65,11 @@ I mainly work with React and TypeScript, and I have a keen interest in UI/UX. <b
 💡 My goal is to become a developer who provides better user experiences. "
 </p>
 
+<br>
+
 <a href="https://showy-random-b28.notion.site/daemin-s-Profile-b8dd3cb78d334b38b764ccc324c360e9">
    <img src="https://imghub.insilicogen.com/media/photos/lbj_notion_0.png" width="3%"> "If you want to know more about me, please visit my Notion page." </a><br>
-
+<br>
 <br>
 
    <p align="right">🚀 안녕하세요! 저는 프론트엔드 개발자가 되기 위해 꾸준히 공부하고 있는 개발자입니다. <br>
