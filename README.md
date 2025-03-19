@@ -50,7 +50,7 @@
 <a href="https://instagram.com/daem_in00" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" align="right"/>
 </a>
-<a href="https://velog.io/chamchi0216" target="_blank">
+<a href="https://velog.io/@chamchi0216/posts" target="_blank">
   <img src="https://velog.velcdn.com/images/hyeongjun/post/5fff0129-f29b-4dfa-b28b-f3af0e11ed4f/image.png" alt="Velog" height="35" width="35" align="right"/>
 </a>
 </div>
