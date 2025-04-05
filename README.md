@@ -37,10 +37,11 @@
 <div align="center">
 
   ### 🎨 Daem_in
-
+<!--
 <a href="https://hits.seeyoufarm.com">
    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandaemin&count_bg=%2388B7D9&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=today&edge_flat=false" align="left"/>
 </a>
+ -->
 <a href="https://twitter.com/develop_nayeon" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" align="right"/>
 </a>
