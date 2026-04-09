@@ -137,6 +137,9 @@ React와 TypeScript를 주로 사용하며, UI/UX에 관심이 많습니다. <br
 </table>
 </div>
 
+![Daemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andaemin&show_icons=true&theme=algolia&locale=kr&custom_title=Cream_Nayeon%20깃허브%20스텟!&ring_color=#F090A2)
+
+
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aAndaemin&layout=compact&show_icons=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=35% align="center" />
